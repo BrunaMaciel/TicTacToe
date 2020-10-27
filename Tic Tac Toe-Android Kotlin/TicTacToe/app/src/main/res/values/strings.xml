@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player1_label">Player 1 (cross):</string>
+    <string name="player2_label">Player 2 (circle):</string>
+    <string name="players_hint">Player name here</string>
+    <string name="newGame_label">New Game</string>
+    <string name="player_turn">Its %1$s (%2$s) turn </string>
+    <string name="player_points">: %1$d</string>
+    <string name="new_game">%1$s starts playing</string>
+    <string name="type_players_name">Enter the players name to start the game!</string>
+</resources>
